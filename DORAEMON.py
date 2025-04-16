@@ -298,5 +298,5 @@ if __name__ == '__main__':
     Doraemon()
 
     my_goto(-300, -300)
-    write('BY :> Bandi Revanth', font=("Bradley Hand ITC", 32, "bold"))
+    write('BY : Bandi Revanth', font=("Bradley Hand ITC", 32, "bold"))
     mainloop()
